@@ -1,0 +1,20 @@
+// varialbes
+$learn-background: #a296f7;
+$meet-background: #adcdff;
+$share-background: #deb2ff;
+
+.learn {
+    background-color: $learn-background;
+}
+
+.meet {
+    background-color: $meet-background;
+}
+
+.share {
+    background-color: $share-background;
+}
+
+.container {
+    max-height: 100%;
+}
